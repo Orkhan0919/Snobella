@@ -15,7 +15,6 @@ body {
   padding: 20px;
   border-radius: 15px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  background-image: linear-gradient(rgb(0, 132, 255), rgb(179, 179, 157));
 }
 h2 {
   text-align: center;
